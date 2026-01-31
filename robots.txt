@@ -1,0 +1,6 @@
+# robots.txt para demo-restaurant
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://furbox.github.io/demo-restaurant/sitemap.xml
